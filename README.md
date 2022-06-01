@@ -1,7 +1,8 @@
 # Car-Sharing
 Car sharing - school project
 
-![look](img/look.png)
+![look1](img/look1.png)
+![look2](img/look2.png)
 
 
 ## Installation
