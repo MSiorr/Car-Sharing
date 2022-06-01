@@ -2,6 +2,7 @@
 Car sharing - school project
 
 ![look1](img/look1.png)
+
 ![look2](img/look2.png)
 
 
