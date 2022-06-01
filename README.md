@@ -9,9 +9,9 @@ Car sharing - school project
  - Clone/download the repository
  - Prepare the database (.sql file in directory `\Database`)
  - In `\Project`:
-  - In terminal run `npm i` to install dependencies
-  - In the terminal run `npm run build` to build project
-  - Run `\public\index.html` with php server (e.g. XAMPP)
+   - In terminal run `npm i` to install dependencies
+   - In the terminal run `npm run build` to build project
+   - Run `\public\index.html` with php server (e.g. XAMPP)
     
 
 ## Features
