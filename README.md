@@ -6,7 +6,7 @@ Car sharing - school project
 ![look2](img/look2.png)
 
 ### Test it now 
-**👉 http://msior.ct8.pl/Car-Sharing/ 👈**
+**👉 http://msior.ct8.pl/Car-Sharing/ 👈** (without events and triggers)
 
 
 ## Installation
