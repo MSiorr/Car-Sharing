@@ -1,9 +1,10 @@
 # Car-Sharing
 Car sharing - school project
 
-![look1](img/look1.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171881430-602fd0f2-3a54-445a-858c-356ae2542a51.png)
 
-![look2](img/look2.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171881446-9465ea02-4156-48bd-a29e-41bc19614656.png)
+
 
 ### Test it now 
 **👉 http://msior.ct8.pl/Car-Sharing/ 👈** (without events and triggers)
